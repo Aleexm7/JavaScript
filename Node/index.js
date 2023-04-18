@@ -1,0 +1,10 @@
+
+//ESTO ES UN TIPO DE COMENTARIO
+
+/*
+ESTO ES OTRO TIPO DE COMENTARIO
+QUE SIRVE PARA LOS COMENTARIOS
+MULTILINEAS */
+
+
+console.log("Esta es la nueva entrada al proyecto")
